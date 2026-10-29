@@ -1,0 +1,3 @@
+# This file keeps the models directory in git
+# Actual .pth model files are ignored (they're too large for git)
+# Download trained models from releases or train your own
